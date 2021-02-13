@@ -158,8 +158,3 @@ $media-queries: (
   lg: $content-width + $nav-width,
   xl: 1400px,
 ) !default;
-
-
-h1, h2, h3 {
-    color: $orange-300;
-}
